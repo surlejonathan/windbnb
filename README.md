@@ -39,6 +39,8 @@
 
 ![screenshot](./src/assets/shot-1.png)
 ![screenshot](./src/assets/shot-2.png)
+![screenshot](./src/assets/shot-3.png)
+![screenshot](./src/assets/shot-4.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -82,8 +84,6 @@ $ npm start or yarn start
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
