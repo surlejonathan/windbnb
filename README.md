@@ -87,5 +87,5 @@ $ npm start or yarn start
 
 ## Contact
 
-- Website [My portfolio](https://{jonathansurle-dev.netlify.app})
-- GitHub [@surlejonathan](https://{github.com/surlejonathan})
+- Website [My portfolio](https://jonathansurle-dev.netlify.app)
+- GitHub [@surlejonathan](https://github.com/surlejonathan)
