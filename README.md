@@ -40,8 +40,7 @@
 ![screenshot](./src/assets/shot-1.png)
 ![screenshot](./src/assets/shot-2.png)
 ![screenshot](./src/assets/shot-4.png)
-
-<!-- ![screenshot](./src/assets/shot-3.png) -->
+![screenshot](./src/assets/shot-3.png)
 
 ### Built With
 
